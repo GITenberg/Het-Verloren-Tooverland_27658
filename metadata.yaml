@@ -1,0 +1,43 @@
+_repo: Het-Verloren-Tooverland_27658
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Logeman-van der Willigen, D.
+    aliases:
+    - Logeman-van der Willigen, Dina Samuela
+    - Willigen, Dina Samuela Logeman-van der
+    birthdate: 1864
+    deathdate: 1925
+    gutenberg_agent_id: '32827'
+    url: http://www.gutenberg.org/2009/agents/32827
+covers:
+- cover_type: archival
+  image_path: 27658-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blicher-Clausen, J. (Jenny)
+    aliases:
+    - Blicher-Clausen, Jenny
+    - Nokken
+    - Blicher, I.
+    - Nøkken
+    - Bentsen, John
+    - Blicher, Jenny
+    birthdate: 1865
+    deathdate: 1907
+    gutenberg_agent_id: '32826'
+    url: http://www.gutenberg.org/2009/agents/32826
+description: ''
+gutenberg_issued: '2008-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27658'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Danish fiction -- Translations into Dutch'
+title: Het Verloren Tooverland
+url: http://www.gutenberg.org/ebooks/27658
